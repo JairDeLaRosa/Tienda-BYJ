@@ -21,18 +21,42 @@ export const NavBar = () => {
             <ul class="dropdown-menu">
               <li>
                 <a class="dropdown-item" href="#">
-                  Action
+                  Escolar
                 </a>
               </li>
               <li>
                 <a class="dropdown-item" href="#">
-                  Another action
+                  Modistería
                 </a>
               </li>
               <li>
                 <a class="dropdown-item" href="#">
-                  Something else here
+                  Papeles
                 </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#">
+                  Fiestas
+                </a>
+              </li><li>
+                <a class="dropdown-item" href="#">
+                  regalos
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#">
+                  Carnavales
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#">
+                  Navidad
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#">
+                  Halloween                
+                  </a>
               </li>
             </ul>
           </div>
